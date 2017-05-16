@@ -30,7 +30,7 @@ namespace Calculator
             Button b = (Button)sender;
             tb.Text += b.Content.ToString();
             tb.Focus();
-            tb.SelectionStart = tb.Text.Length;
+            tb.SelectionStart = tb.Text.Length; // asdfas
             tb.SelectionLength = 0;
         }
 
