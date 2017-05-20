@@ -28,7 +28,7 @@
         <Button Content="C" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="1" Grid.Column="2" FontSize="20" Click="Button_Click_Back"/>
         <Button Content="DEL" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="1" Grid.Column="3" FontSize="20" Click="Button_Click_Del"/>
         <Button Content="/" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="1" Grid.Column="4" Click="Button_Click_1" />
-        <Button Content="RT" Margin="4, 0, 0, 0" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="2" Grid.Column="0" FontSize="20" Click="Button_Click_1" />
+        <Button Content="e" Margin="4, 0, 0, 0" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="2" Grid.Column="0" FontSize="20" Click="Button_Click_e" />
         <Button Content="7" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="2" Grid.Column="1" FontSize="20" Click="Button_Click_1" />
         <Button Content="8" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="2" Grid.Column="2" FontSize="20" Click="Button_Click_1" />
         <Button Content="9" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="2" Grid.Column="3" FontSize="20" Click="Button_Click_1" />
@@ -38,7 +38,7 @@
         <Button Content="5" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="3" Grid.Column="2" FontSize="20" Click="Button_Click_1" />
         <Button Content="6" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="3" Grid.Column="3" FontSize="20" Click="Button_Click_1" />
         <Button Content="-" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="3" Grid.Column="4" FontSize="20" Click="Button_Click_1" />
-        <Button Content="+-" Margin="4, 0, 0, 0" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="4" Grid.Column="0" FontSize="20"/>
+        <Button Content="&#960;" Margin="4, 0, 0, 0" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="4" Grid.Column="0" FontSize="20" Click="Button_Click_pi"/>
         <Button Content="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="4" Grid.Column="1" FontSize="20" Click="Button_Click_1" />
         <Button Content="2" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="4" Grid.Column="2" FontSize="20" Click="Button_Click_1" />
         <Button Content="3" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="4" Grid.Column="3" FontSize="20" Click="Button_Click_1" />
@@ -49,5 +49,5 @@
         <Button Content="," HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="5" Grid.Column="3" FontSize="20" Click="Button_Click_1" />
         <Button Content="=" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="60" Height="60" Grid.Row="5" Grid.Column="4" FontSize="20" Click="Result_click"/>
     </Grid>
-
+    
 </Window>
